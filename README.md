@@ -1,6 +1,6 @@
 # KNN Heart Disease
 
-Case based reasoning untuk deteksi kemungkinan penyakit jantung menggunakan algoritmas KNN
+Case based reasoning untuk deteksi kemungkinan penyakit jantung menggunakan algoritma KNN
 
 ## Data
 
